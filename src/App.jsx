@@ -6,6 +6,7 @@ function App() {
 
 	return (
 		<div>
+			<label htmlFor="color">Select Color: </label>
 			<input
 				type="color"
 				name="color"
