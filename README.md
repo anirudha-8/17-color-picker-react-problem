@@ -19,8 +19,11 @@ Build a React application that features a **color picker** component to enable u
 Create a **color picker** component with the following functionalities:
 
 - A **color input** or a palette where users can select a color.
+
 - Dynamically update the **background color** of a preview box based on the selected color.
+
 - Display the **selected color's hex code** or RGB value.
+
 - Ensure smooth **UI updates** when selecting different colors.
 
 ---
@@ -30,25 +33,25 @@ Create a **color picker** component with the following functionalities:
 1. **Clone the Submodule Repository:**  
 
     ```bash
-    git clone https://github.com/anirudha-8/17-color-picker-component.git
+        git clone https://github.com/anirudha-8/17-color-picker-react-problem.git
     ```
 
 2. Navigate to the Project Directory:  
 
     ```bash
-    cd 17-color-picker-component
+        cd 17-color-picker-react-problem.git
     ```
 
 3. Install Dependencies:  
 
     ```bash
-    npm install
+        npm install
     ```
 
 4. Start the Development Server:  
 
     ```bash
-    npm run dev
+        npm run dev
     ```
 
 ---
@@ -56,8 +59,11 @@ Create a **color picker** component with the following functionalities:
 ## 📚 Learning Objectives  
 
 - Learn how to use **React's useState hook** to manage color selection.
+
 - Understand how to work with **color inputs** and events.
+
 - Enhance UI by implementing a **live color preview feature**.
+
 - Work with **inline styles** and dynamic class updates in React.
 
 ---
@@ -67,7 +73,9 @@ Create a **color picker** component with the following functionalities:
 Feel free to contribute improvements or alternative solutions! Here’s how:  
 
 - Fork the repository.  
+
 - Create a new branch for your feature or fix.  
+
 - Submit a pull request for review.  
 
 ---
