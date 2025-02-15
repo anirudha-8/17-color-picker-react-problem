@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://17-color-picker-component.vercel.app/)
+## ==> [🔥Live Demo](https://17-color-picker-react-problem.vercel.app/)
 
 Welcome to the **seventeenth problem** of the React 30+ Practical Problems series! In this challenge, we will build a **color picker** component that allows users to select and apply colors dynamically.
 
